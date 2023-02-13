@@ -19,7 +19,8 @@ Transfermarkt hat verschiedene Hürden eingebaut, um das Scrapen der Webseite zu
 
 ## 4 Publikation/weiteres Vorgehen
 Geplant ist mit der Datenanalyse aufzuzeigen, welches die Hauptplayer sind, dieser Text wird mit einigen Grafiken versehen. Mich interessiert, ob die Spielerberater in einer spezifischen Liga tätig sind oder quer durch Europa aufgestellt sind. Ausserdem gibt es einige Berater, die viele "mittelpreisige" Spieler beraten und einige, die einige wenige Superstars mit entsprechend hohen Marktwerten im Portfolio haben. Dazu müssten man vielleicht mit dem programmierten Scraper noch weitere Daten beschaffen wie Klub oder Herkunfstsland. 
-Hauptstück wird ein Porträt über Rafaela Pimenta sein - sie ist die einzige Frau im Konzert der mächtigen Spielerberater. Sie hat das Portfolio des verstorbenen Milo Raiola übernommen und berät unter anderem Erling Haaland, den begehrtesten Stürmer der Gegenwart. 
+Hauptstück wird ein Porträt über Rafaela Pimenta sein - sie ist die einzige Frau im Konzert der mächtigen Spielerberater. Sie hat das Portfolio des verstorbenen Milo Raiola übernommen und berät unter anderem Erling Haaland, den begehrtesten Stürmer der Gegenwart.
+Eine Gesprächsanfrage bei Pimenata ist gestellt. 
 
 ## 5 Aufwand
 - Daten sichten, Methode prüfen: 2h
